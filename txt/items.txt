@@ -1,0 +1,21 @@
+#spawn
+
+48 82 cash.png
+
+#cellar
+
+279 204 key.png
+
+#bedroom
+
+#map
+
+#docks
+
+66 65 cocaine.png
+
+#basic-fit
+
+#night-club
+
+#zara

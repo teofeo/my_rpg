@@ -1,0 +1,24 @@
+#spawn|
+
+370/130/mum.png/25/mince! J'ai oublie les clees de la maison dans la cave|
+
+#cellar|
+
+#bedroom|
+
+110/120/mum.png/30/zebi elle sont ou mes cles|
+
+#map|
+
+436/411/dock_mamie.png/30/Bienvenue au docks, va prendre une biere !|
+686/366/vendeur.png/30/ehhh! tu veux quoi mon gadji !|
+126/736/annonce_elsa.png/30/Mince, j'ai perdu ma copine au Zara.|
+251/436/basic.png/30/Desoler tu peux pas rentrer sans proteine !|
+641/166/videur1.png/35/Trop jeune tu rentres pas a part en me passant dessus!|
+1071/761/marinette.png/25/Tu veux ma tete ?|
+
+#basic-fit|
+
+#night-club|
+
+#zara|

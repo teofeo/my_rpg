@@ -1,0 +1,21 @@
+Je peux mettre des commentaires ici ça n'aura aucun effet
+[x | y | damage | life | delay | speed | path]
+
+#spawn
+
+#cellar
+
+158 134 1 10 1 15 cellar.png
+
+#bedroom
+
+#map
+
+#docks
+
+
+#basic-fit
+
+#night-club
+
+#zara
